@@ -1,2 +1,3 @@
 # -The-Student-Record-Management-System-
-this the project held by our college 
+This the project held by our college 
+Author-Garugu Vishal
